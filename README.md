@@ -19,6 +19,7 @@ I mostly work on game development, but I occasionally wander into other areas wh
 
 * My fork of [YarnRunner-Python](https://github.com/josefalanga/YarnRunner-Python), where I added a few pull requests to bring it closer to feature parity with regular Yarn. Originally in service of a Telegram storyteller bot that never quite got off the ground.
 * Random [Ludum Dare 38](https://github.com/josefalanga/ludumdare38) entry, produced under the traditional Ludum Dare conditions of sleep deprivation and questionable decisions.
+* [Resume Generator](https://github.com/josefalanga/resume-gen) with a release build pipeline (of course), so I can maintain a single markdown file with the relevant info and get a pretty result at the end. No more visual tools tyranny for me.
 
 #### Minor open source incident
 
