@@ -1,13 +1,13 @@
-### Hi there 👋
+## Hi there 👋
 
-I'm Jose Falanga, a software developer, predictably.
+I'm Jose Falanga, a software developer (predictably).
 
 I mostly work on game development, but I occasionally wander into other areas when curiosity or bad ideas strike.
 
 ### Selected projects
 
 * [Uprise](https://github.com/josefalanga/uprise): My fork of [Arise](https://github.com/spectrasecure/arise), adapted to fit my needs.
-* [Source markdown](https://github.com/josefalanga/blog-thergic) for my blog [Hypomnēma](https://log.thergic.ar/) (bilingual, EN/ES), built using Uprise ☝️. It automatically builds and deploys to Firebase Hosting on commit. Because reinventing the wheel is more fun than using the existing one.
+* [Source markdown](https://github.com/josefalanga/blog-thergic) for my blog [Hypomnēma](https://log.thergic.ar/) (bilingual, EN/ES), built using Uprise ☝️. Built from markdown and deployed automatically to Firebase Hosting on commit. Because reinventing the wheel is more fun than using the existing one.
 * [Source](https://github.com/josefalanga/josefalanga.github.io) for [my github.io](https://josefalanga.github.io/) landing page, styled as a man page. I should probably consolidate it into this README instead, but nobody got time for that.
 
 ### Technical tests
@@ -19,7 +19,7 @@ I mostly work on game development, but I occasionally wander into other areas wh
 
 * My fork of [YarnRunner-Python](https://github.com/josefalanga/YarnRunner-Python), where I added a few pull requests to bring it closer to feature parity with regular Yarn. Originally in service of a Telegram storyteller bot that never quite got off the ground.
 * Random [Ludum Dare 38](https://github.com/josefalanga/ludumdare38) entry, produced under the traditional Ludum Dare conditions of sleep deprivation and questionable decisions.
-* [Resume Generator](https://github.com/josefalanga/resume-gen) with a release build pipeline (of course), so I can maintain a single markdown file with the relevant info and get a pretty result at the end. No more visual tools tyranny for me.
+* [Resume Generator](https://github.com/josefalanga/resume-gen) with an automated release pipeline that builds the final PDF. No more visual tools tyranny.
 
 #### Minor open source incident
 
