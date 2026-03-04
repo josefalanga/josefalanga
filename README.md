@@ -5,7 +5,7 @@ I'm Jose Falanga, a software developer, predictably. I mostly focus on game deve
 Some interesting repositories to explore while you are here:
 - [Uprise](https://github.com/josefalanga/uprise): My fork of [Arise](https://github.com/spectrasecure/arise), customized to fit my needs.
 - [Source markdown](https://github.com/josefalanga/blog-thergic) for my blog [Hypomnēma](https://log.thergic.ar/) (bilingual, EN/ES), built using Uprise ☝️. It gets automatically built and deployed to Firebase Hosting on commits. Why use something else when you can reinvent the wheel and have fun doing it.
-- [Source](https://github.com/josefalanga/josefalanga.github.io) for my https://josefalanga.github.io/ landing page, styled as a man page. I should probably consolidate that into this README instead, but nobody got time for that.
+- [Source](https://github.com/josefalanga/josefalanga.github.io) for [my github.io](https://josefalanga.github.io/) landing page, styled as a man page. I should probably consolidate that into this README instead, but nobody got time for that.
 - Technical tests:
   - [Colorful Blocks](https://github.com/josefalanga/colorful-blocks): A Unity game that resembles a match-3 game.
   - [Fishnet Multiplayer Demo](https://github.com/josefalanga/fishnet-multiplayer-demo): A small toy project to explore FishNet Multiplayer.
