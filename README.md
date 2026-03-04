@@ -20,7 +20,7 @@ I mostly work on game development, but I occasionally wander into other areas wh
 * My fork of [YarnRunner-Python](https://github.com/josefalanga/YarnRunner-Python), where I added a few pull requests to bring it closer to feature parity with regular Yarn. Originally in service of a Telegram storyteller bot that never quite got off the ground.
 * Random [Ludum Dare 38](https://github.com/josefalanga/ludumdare38) entry, produced under the traditional Ludum Dare conditions of sleep deprivation and questionable decisions.
 
-#### Bonus track
+#### Minor open source incident
 
 [![Godot Docs Contributor](https://img.shields.io/badge/Godot-Docs%20Contributor-478cbf?logo=godotengine\&logoColor=white)](https://github.com/godotengine/godot/pulls?q=author%3Ajosefalanga)
 [![Contribution Type](https://img.shields.io/badge/Contribution-Words-blue)](https://github.com/godotengine/godot/pulls?q=author%3Ajosefalanga)
